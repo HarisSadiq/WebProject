@@ -1,0 +1,31 @@
+
+
+.list{
+margin-top: 2%;
+list-style: none;
+text-align: center;
+display: flex;
+justify-content: space-evenly;
+
+
+}
+.link{
+    text-decoration: none;
+    color: #b2c666;
+}
+.footer{
+    text-align: center;
+    justify-content: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color:#1b1917;
+    color:#b2c666 ;
+    height: 200px;
+}
+.botom{
+    margin-top: 4%;
+    padding-top: 1%;
+    font-size: 13px ;
+    border-top-style: solid;
+    border-top-width: 1px;
+}

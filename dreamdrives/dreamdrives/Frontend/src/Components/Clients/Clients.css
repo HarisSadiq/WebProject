@@ -1,0 +1,39 @@
+
+.client{
+    width: 25%;
+    position: absolute;
+    color:#b2c666;
+    padding-top: 2%;
+    margin-left: 5%;
+}
+.cup{
+    width: 25%;
+    position: absolute;
+    color: #b2c666;
+    padding-top: 2%;
+    margin-left: 25%;
+}
+.branch{
+    width: 25%;
+    position: absolute;
+    color:#b2c666;
+    padding-top: 2%;
+    margin-left: 45%;
+}
+.emp{
+    width: 25%;
+    position: absolute;
+    color: #b2c666;
+    padding-top: 2%;
+    margin-left: 65%;
+}
+
+.background{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 100%;
+    height: 350px;
+background-color: #1b1917;
+display:flex;
+align-items: center;
+}

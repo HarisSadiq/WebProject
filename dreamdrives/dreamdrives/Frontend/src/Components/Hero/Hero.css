@@ -1,0 +1,70 @@
+
+.Background{
+    height: 100%;
+    width: 100%;
+}
+.btn_purchase{
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 8%;
+    height: 50px;
+    width: 150px;
+    background-color:#b2c666;
+color:#1b1917;
+border-radius: 50px;
+border: #b2c666;
+border-style: solid;
+font-weight: bold;
+font-size: large;
+cursor:pointer
+}
+.btn_purchase:hover{
+    background-color: transparent;
+    color: #b2c666;
+    border: #b2c666;
+border-style: solid;
+transition: 0.5s;
+
+}
+.btn_readmore{
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 20%;
+    height: 50px;
+    width: 150px;
+    background-color:transparent;
+color: #b2c666;
+border-radius: 50px;
+border: #b2c666;
+border-style: solid;
+font-weight: bold;
+font-size: large;
+cursor:pointer
+
+}
+.btn_readmore:hover{
+    background-color: #b2c666;
+    color: #1b1917;
+    transition: 0.5s;
+}
+.text{
+    position: absolute;
+    color: #ffffff;
+    margin-top:20%;
+    margin-left: 5%;
+    font-size: 50px;
+    font-weight: bold;
+}
+.text1{
+    position: absolute;
+    color: #b2c666;
+    margin-left: 5%;
+    margin-top: 25%;
+    font-size: 70px;
+    font-weight: bold;
+    
+    
+}
+.hero{
+    display: flex;
+}
